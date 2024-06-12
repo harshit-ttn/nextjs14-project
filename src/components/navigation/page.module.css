@@ -1,0 +1,22 @@
+.nav {
+  background-color: #0070f3;
+  padding: 10px 20px;
+}
+
+.navList {
+  display: flex;
+  gap: 20px;
+}
+
+.navItem {
+  margin: 0;
+}
+
+.navLink {
+  color: white;
+  font-weight: bold;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}
