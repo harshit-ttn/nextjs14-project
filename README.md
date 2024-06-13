@@ -1,3 +1,5 @@
+# nextjs14-project
+Blog Website Using App Based Routing (Next.js14) and Also Integrate CRUD operations, object modeling, JWT authentication, and proper data fetching/rendering techniques
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
